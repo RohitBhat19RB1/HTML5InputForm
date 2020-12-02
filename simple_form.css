@@ -6,7 +6,7 @@ body {
     width: 100%;
     max-width: 600px;
     margin: 0px auto;
-    padding: 2em;
+    padding: 2em;   
 }
 
 .headerContainer {
@@ -55,87 +55,14 @@ error-output {
     color: red;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media only screen and (max-width: 360px) {
+    h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    label {
+        width: 30%;
+        font-size: 12px;
+    }
+}
 
